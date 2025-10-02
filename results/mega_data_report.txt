@@ -1,0 +1,21 @@
+🚀 MEGA HDFS TRACE VERİ SETİ ANALİZ RAPORU
+============================================================
+
+Toplam işlenen log: 29,776
+Toplam kategoriler: 11
+Tespit edilen anomaliler: 2,842
+Anomali oranı: 9.54%
+
+📊 KATEGORİ BAZLI İSTATİSTİKLER:
+----------------------------------------
+Data_corrupt: 349/2338 (14.9%)
+Data_cut: 1081/1081 (100.0%)
+Data_loss: 362/2357 (15.4%)
+Net_disconnect: 175/3000 (5.8%)
+Net_slow: 213/3000 (7.1%)
+Proc_kill: 188/3000 (6.3%)
+Proc_suspend: 22/3000 (0.7%)
+Sys_dead: 10/3000 (0.3%)
+Sys_panic: 38/3000 (1.3%)
+Complex: 371/3000 (12.4%)
+Normal: 33/3000 (1.1%)

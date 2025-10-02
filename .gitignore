@@ -1,0 +1,40 @@
+# Gereksiz dosyalar - geri gelmesin
+analyze_hdfs.py
+anomaly_analysis.py
+big_data_logbert.py
+download_dataset.py
+hdfs_analyzer.py
+hdfs_preprocessed_analyzer.py
+logbert_anomaly_detector.py
+supervised_example.py
+
+# Gereksiz klasörler
+example/
+notebooks/
+cache/
+__pycache__/
+*.pyc
+
+# Geçici dosyalar
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# PDF/Dokümantasyon oluşturucu dosyalar
+project_to_pdf.py
+simple_pdf_generator.py
+text_compiler.py
+create_word.py
+*_TAM_DOKUMAN.txt
+*_WORD_DOKUMAN.docx
+
+# Büyük dosyalar - GitHub 100MB limiti için
+data/HDFS_big.log/preprocessed/normal_trace.csv
+data/HDFS_big.log/preprocessed/failure_trace.csv
+models/supervised_logbert.pth
+
+# Büyük CSV dosyaları
+data/**/event.csv
+data/**/*.csv
+!data/sample_*.csv
