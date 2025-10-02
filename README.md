@@ -294,3 +294,6 @@ This project demonstrates the **first successful application** of BERT's natural
 **System Status**: âœ… Production Ready  
 **Project Type**: HDFS Log Anomaly Detection with BERT  
 **Languages**: Turkish + English Documentation
+
+ # #   S o n   G ü n c e l l e m e :   0 2 . 1 0 . 2 0 2 5  
+ 
